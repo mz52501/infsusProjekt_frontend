@@ -1,11 +1,11 @@
 import './App.css';
 import {BrowserRouter, Route, Routes} from "react-router-dom";
-import Layout from "./pages/Layout.js";
-import Home from "./pages/Home.js";
-import NoPage from "./pages/NoPage.js";
-import Predmet from "./pages/Predmet.js";
-import RealHome from "./pages/RealHome.js";
-import AddIspit from "./pages/AddIspit.js";
+import Layout from "./pages/Layout";
+import Home from "./pages/Home";
+import NoPage from "./pages/NoPage";
+import Predmet from "./pages/Predmet";
+import RealHome from "./pages/RealHome";
+import AddIspit from "./pages/AddIspit";
 
 function App() {
   return (
